@@ -5,7 +5,7 @@
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 ## 💻 Languages
-[![Languages](https://go-skill-icons.vercel.app/api/icons?i=py,cpp,java,js,ts,html,css,go&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
