@@ -3,7 +3,15 @@
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 ## 💻 Languages
-[![Languages](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,html,c,html,ts,py,css,wasm)](https://skillicons.dev)
+## 🗄️ Databases & Vector Stores
+[![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlite,mongodb&theme=dark)](https://skillicons.dev)
+
+
+
+## 🛠️ Tools & Other
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=jest,selenium,bash,discord,eclipse,git,github,bitbucket,gitlab,postman,stackoverflow,vscode,webstorm,notion,idea,sonarqube,miro,stripe&theme=dark)](https://skillicons.dev)
+
 
 
 
