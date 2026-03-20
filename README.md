@@ -4,7 +4,7 @@
 
 ## 💻 Languages
 [![Languages](https://skillicons.dev/icons?i=js,html,css,cpp,ts,nodejs,py,java,)](https://skillicons.dev)
-## 🗄️ Databases & Vector Stores
+## 🗄️ Databases
 [![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlite,mongodb&theme=dark)](https://skillicons.dev)
 
 
