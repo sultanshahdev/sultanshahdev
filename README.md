@@ -7,7 +7,7 @@
 
 <img align="right" alt="GIF" height="245px" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif" />
 
-- 👨‍💻 I'm currently working on **The Hour of Peace** — a cybersecurity & digital safety awareness platform for Sindh.
+- 👨‍💻 I'm currently working on **The Hour of Peace** — a cybersecurity & digital safety awareness platform for Pakistan.
 - 🏗️ Architecture-first developer with a focus on **MERN Stack** (MongoDB, Express, React, Node.js).
 - 🚀 Passionate about **System Design**, **Test-Driven Development (TDD)**, and **CI/CD Pipelines**.
 - 📚 Currently learning through **The Odin Project** and exploring advanced architectural patterns.
@@ -56,13 +56,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ---
-
-
-## 🎯 Open To
-
-- **Full-time Developer Roles** | **Internships** | **Freelance Projects**
-- Particularly interested in backend-heavy, system design-focused opportunities
-
 ---
 
 ## 📫 Connect With Me
