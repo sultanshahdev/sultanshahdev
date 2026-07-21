@@ -5,7 +5,7 @@
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/sultanshahdev?label=Stars">
 </p>
 
-<img align="right" alt="GIF" height="245px" src="YOUR_GIF_URL_HERE" />
+<img align="right" alt="GIF" height="245px" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif" />
 
 - 👨‍💻 I'm currently working on **The Hour of Peace** — a cybersecurity & digital safety awareness platform for Sindh.
 - 🏗️ Architecture-first developer with a focus on **MERN Stack** (MongoDB, Express, React, Node.js).
