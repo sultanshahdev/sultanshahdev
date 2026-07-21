@@ -23,7 +23,7 @@
 # 💻 Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 ## 💻 Languages
-[![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,python,bash&theme=dark)](https://skillicons.dev)
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,js,ts,html,css,python,bash&theme=dark)](https://skillicons.dev)
 
 ## 🚀 Frontend & Frameworks
 [![Frontend](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,html,css,sass,tailwind,vite&theme=dark)](https://skillicons.dev)
@@ -32,13 +32,13 @@
 [![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,npm,webpack&theme=dark)](https://skillicons.dev)
 
 ## 🗄️ Databases & Data
-[![Databases](https://go-skill-icons.vercel.app/api/icons?i=mongodb,firebase,postgresql&theme=dark)](https://skillicons.dev)
+[![Databases](https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,firebase,postgresql&theme=dark)](https://skillicons.dev)
 
 ## 📦 Tools & DevOps
-[![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,githubactions,vscode,jest,linux,bash&theme=dark)](https://skillicons.dev)
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,webpack,githubactions,emacs,vim,gherkin,vscode,jest,linux,bash&theme=dark)](https://skillicons.dev)
 
 ## 🌐 Additional Technologies
-[![Others](https://go-skill-icons.vercel.app/api/icons?i=socketio,figma,notion&theme=dark)](https://skillicons.dev)
+[![Others](https://go-skill-icons.vercel.app/api/icons?i=socketio,linux,figma,notion&theme=dark)](https://skillicons.dev)
 
 ## ⚙️ GitHub Analytics
 
